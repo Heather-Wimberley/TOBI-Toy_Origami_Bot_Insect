@@ -17,7 +17,7 @@ will need to be able to autonomously navigate a house while avoiding any obstacl
 
 A picture of the final robot made from the closed hardboard frame is found below.
 
-![TOBI](relative%20path/to/img.jpg?raw=true "Title")
+![TOBI](Hardware/Frames/TOBI.jpeg)
 
 ## Contents
 ### Software
