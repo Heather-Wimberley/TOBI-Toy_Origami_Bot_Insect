@@ -26,8 +26,7 @@ This file contains all the code written for the robot including design algorithm
 
 - [OrigamiRobotAvoidance](Software/OrigamiRobotAvoidance.cpp):  The main function created for the robot to allow to avoid objects.
 - [CurvedFrameSolver](Software/CurvedFrameSolver.mlx):  The algorithm is designed to be used with the curved frame to get the dimensions to be used for the curve. The height of the body and of the system and the number of segments can be changed to get the correct measurements. These are all assumed to be in mm.
-
-This contains the code used on the ESP32 on the robot to use the object avoidance. It also contains the code used to create a curve of defined curve segments.
+- [Pickup](Software/Pickup.cpp):  This function contains the code for pickup detection working in isolation with the MXC6655. Due to time constraints, it was not integrated with the object avoidance.
 
 ### Hardware
 
